@@ -1,0 +1,2 @@
+# imagebed
+For image bed.
